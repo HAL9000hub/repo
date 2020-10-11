@@ -1,0 +1,489 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.ijui.rs.gov.br/imagens/zc1_w700__5301698bcbcceb95491b835a8d6cdbf1ecf61b8310701a75dcb1f1c2ee2bd8cf.png" group-title="VARIEDADES" , TV Aparecida 
+plugin://plugin.video.live.streamspro/?url=http://177.67.96.126%3A8081%2Fplay%2Fa0b8%2Findex.m3u8&mode=12
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7faf25d0fff391c39eb21e2374503e89.png" group-title="VARIEDADES" , Nova Era 
+http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w1814879266.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/rede-vida-logo.png" group-title="VARIEDADES" , Rede Vida 
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/35F7DlH" group-title="VARIEDADES" , TV Espírita Paraná 
+https://tv01.painelwebtv.com.br/rodney9380/rodney9380/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoO63Q4K5C-4OuCtjSeswFjX1-Vm3z3a6yL3LLtDiEoIgugmaN&usqp=CAU" group-title="VARIEDADES" , TV Pantanal
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://stream1.asaweb.com.br:444/tvpantanalms/tvpantanalms/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/Mini-logo.png/revision/latest/scale-to-width-down/340?cb=20150823230102" group-title="VARIEDADES" , TV Morena
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http%3A%2F%2Ffonteangelusiptv.com%3A25461%2F27992831417AELI%2FNBS235%2F92604&swf=None&auth=&simpledownloader=False
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9ff3259c53682ee730c1662db45a02b9.jpg" group-title="VARIEDADES", TVE MS
+http://spotvtstr01.se.fertel.cds.ebtcvd.net/hls/STFERTEL01_240/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cc862a55adf883c5d9682cd83f005dd8.png" group-title="BRASIL", CANAL DE SÃO DE PAULO
+http://stream02.msolutionbrasil.com.br:1935/canaldesaopaulo/live/chunklist_w1716084796.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://static2.wikia.nocookie.net/__cb20130831133159/logopedia/images/e/e8/Canal_Viva_logo.png" group-title="VARIEDADES" , VIVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2262
+
+
+#EXTINF:-1 tvg-logo="http://static2.wikia.nocookie.net/__cb20130831133159/logopedia/images/e/e8/Canal_Viva_logo.png" group-title="VARIEDADES" , VIVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http%3A%2F%2Fchronostv.com%3A80%2F9001arlindnogu%2F90arlindo01n%2F69232&swf=None&auth=&simpledownloader=False
+
+
+
+#EXTINF:-1 tvg-id="GLOBO.BR" tvg-logo="http://img2.wikia.nocookie.net/__cb20140518171742/logopedia/images/a/a7/Globo-tv-internacional.png" group-title="VARIEDADES" , GLOBO SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2620
+
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y22mfqtp" group-title="VARIEDADES", TV BRASIL
+https://bit.ly/2WWTdvO?ThorntonIPTV
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Catve.png" group-title="VARIEDADES" ,CATVE 
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1903376726.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac86ed7edabf2d886a3b8430b4f13c91.png" group-title="BRASIL", TV CULTURA
+https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/band.png" group-title="VARIEDADES",Band SP 
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdhSOzE_edX1vP9RodX2kAXSrezwaIrjXVaN-jyI7VIxPfVvuU&usqp=CAU"  group-title="VARIEDADES" ,TV gazeta
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-360p.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="VARIEDADES" ,TV FUTURA 
+https://origin-02.nxplay.com.br/FUTURA/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/SescTV_%282013%29.png"   group-title="VARIEDADES", SESC TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QNkBQc6/arte1.png" group-title="VARIEDADES"  ,Arte1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2052
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ejp65zr.png" group-title="VARIEDADES", TV BNO
+plugin://plugin.video.live.streamspro/?url=http%3A%2F%2Ftv02.logicahost.com.br%3A1935%2Fbonner%2Fbonner%2Flive.m3u8&mode=12
+
+
+
+
+
+##jornalismo======================================================================jornalismo=======
+
+
+#EXTINF:-1 tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globonews.png" group-title="JORNALISMO" ,Globo News 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2130
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="JORNALISMO", CNN Brasil
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+
+
+
+
+
+
+#EXTINF:-1   tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandnews.png"  ,  Band News
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w1090051683.m3u8
+
+
+
+
+
+
+
+##documentário=============================================================================documentário
+
+
+
+
+
+#EXTINF:-1 group-title="Portugal",Odisseia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1579
+
+
+#EXTINF:-1 tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/history.png" group-title="DOCUMENTÀRIOS" ,History - documentários
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/historysd/video.m3u8|Referer=https://topcanais.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36
+
+
+
+#EXTINF:-1 tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/h2.png" group-title="DOCUMENTÀRIOS" ,H2 - documentários
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http%3A%2F%2Fchronostv.com%3A80%2F9001arlindnogu%2F90arlindo01n%2F68820&swf=None&auth=&simpledownloader=False
+
+
+#EXTINF:-1 tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/nationalgeographic.png"   group-title="DOCUMENTÀRIOS" ,NAT GEO - documentários
+http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1576
+
+
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/animalplanet.png" group-title="Documentários",Animal Planet 
+http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2049
+
+
+#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/03/investigation-discovery-logo.png" group-title="DOCUMENTÀRIOS", Investigação Discovery - documentários
+http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1571
+
+
+
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/1/11/Discovery_Channel_2016.png/revision/latest/scale-to-width-down/200?cb=20160801062738" group-title="DOCUMENTÀRIOS" ,Discovery Channel - documentários 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http%3A%2F%2Fblackuhd.co%3A80%2Flive%2Ftblack%2Ftblack%2F5002.m3u8&swf=None&auth=&simpledownloader=False
+
+
+
+#EXTINF:-1 group-title="Documentarios",Smithsonian Channel 
+http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2289
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4wbZUfh.png" group-title="DOCUMENTÀRIOS",CGTN Doc - documentários|inglês
+http://livefr.cgtn.com/1000d/prog_index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fdc02682b28587aac705ec5616ab913a.png" group-title="DOCUMENTÀRIOS", RT DOCUMENTARY -documentários|inglês
+https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://s3.amazonaws.com/libapps/accounts/26996/images/h5.png" group-title="DOCUMENTÀRIOS",History - documentários | inglês
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http%3A%2F%2Fiptv8.premium-stv.com%3A2052%2FSOURCEUSAPRO1d%2F687616d9712%40%2F1759&swf=None&auth=&simpledownloader=False
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/shGwP91.jpg" group-title="DOCUMENTÀRIOS",H2 - documentários | inglês
+http://disfruta.net:80/live/user23/user23/674.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÀRIOS",Discovery  - documentários | inglês
+plugin://plugin.video.live.streamspro/?url=http://active.h2t.cx:2082/chamour2_260374/JwfbKkKN/11188
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÀRIOS",Discovery Science  - documentários | inglês
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://live.highstream.club/live/DISCOVERYS/chunks.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÀRIOS", Investigation Discovery  - documentários | espanhol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http%3A%2F%2Fmiarea.vip%3A25461%2FKkX5TODRvG%2FKbUtTi6kND%2F44577&swf=None&auth=&simpledownloader=False
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/National_Geographic_Logo_2016.png" group-title="DOCUMENTÀRIOS", NAT GEO - documentários |espanhol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http%3A%2F%2Fmiarea.vip%3A25461%2FKkX5TODRvG%2FKbUtTi6kND%2F44588&swf=None&auth=&simpledownloader=False
+
+
+
+#EXTINF:-1   tvg-logo="https://i.pinimg.com/736x/8f/8d/03/8f8d03b5ec0fe64cd8541bcbc6dd1f63.jpg"    group-title="DOCUMENTÀRIOS" ,NAT GEO WILD - documentários | inglês
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/index.m3u8
+
+
+
+
+
+##Filmes=========================================================================================Filmes
+
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Curta%21.svg/528px-Logo_of_Curta%21.svg.png"  group-title="FILME", Curta
+https://stream.ec.cx/a/hls1/curta.m3u8?expires=1595143454&token=9f38f731b69580bbae23be92c0696dfd
+
+
+
+#EXTINF:-1 tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/cinemax.png" group-title="FILME" , Cinemax
+http://online.goldpremium.xyz/ttvnovplass/live/8764|User-Agent=perdeu-baitola
+
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/tD9eMT" group-title="FILME" , Filmes classicos
+http://stmv2.srvstm.com/classique/classique/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="FILME", Só filmes - Filmes | legendados
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Portugal",TV Cine 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1544
+
+
+
+
+#EXTINF:-1 tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/tnt.png" group-title="FILME", TNT 
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tnthd/video.m3u8|Referer=https://topcanais.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36
+
+
+
+
+#EXTINF:-1 group-title="FILME",ENERGY - filmes | espanhol
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" group-title="FILME", Filmes | inglês
+http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d40c5df4382948baeb49aa7d953126b.jpg" group-title="FILME" , RAI MOVIE filmes |italiano
+https://bit.ly/3gkncpc?ThorntonIPTV
+
+
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/d4/Ab_channel_i_logo.png"  group-title="FILMES",AB Channel | Filmes - Italiano
+https://59ef7ad665d1d.streamlock.net:1443/abchannel/abchannel/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/29d68481c951ad2e7bb6580f14fad261.jpg" group-title="FILME", ANTENA 3 - filmes | espanhol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
+
+
+
+
+
+##esportes====================================================================esportes=============
+
+
+
+
+#EXTINF:-1 tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/espn.png" group-title="ESPORTE",ESPN
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1 tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/espnbrasil.png" group-title="ESPORTE",ESPN Brasil
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https%3A%2F%2Flive-orig-oiplay.online.go.oi.com.br%2Flive-cdn%2Fespn.smil%2Fmaster.m3u8%3Fcheckedby%3Aiptvcat.com&swf=None&auth=&simpledownloader=False
+ 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTE",SPORTV 
+http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/13069
+
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/sPwqG58/foxsports.png" group-title="ESPORTE",Fox Sport
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https%3A%2F%2Flive-orig-oiplay.online.go.oi.com.br%2Flive-cdn%2Ffoxsports.smil%2Fmaster.m3u8&swf=None&auth=&simpledownloader=False
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRo8EsPWM1y6GZmKtKomuPNm1KR8Ujy2Zfg-lxrUST2sl4A-IWt&usqp=CAU" group-title="ESPORTE",Band Esporte
+ttp://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2060
+
+
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="VIP:PT - SPORT TV" tvg-logo="http://www.topstb.info/logo/PORTUGAL/SPORTTV.png" group-title="|EU| PORTUGAL",VIP:PT - SPORT TV
+http://magco.rip:8000/41873738782695/41107216214581/79114
+
+
+
+
+
+##variedades internacional=============================================variedades internacional
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_negativo_horiz_RGB.png"  group-title="VARIEDADES", RTP1 - variedades | Português
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http%3A%2F%2Fyourdnshere.xyz%3A83%2Flive%2FKericage%2F6824106935%2F376453.m3u8&swf=None&auth=&simpledownloader=False
+
+
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1200px-BBC_Four.svg.png" tvg-url="" group-title="",BBC Four- variedades | Inglês 
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/820
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6d41d131935dc6a2efb3a36b64ae96e5.png" group-title="VARIEDADES" , TVE - LA1  variedades| espanhol 
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8?sd=10&rebase=on
+
+
+
+
+
+
+##jornalismo internacional=============================================================jornalismo internacional
+
+
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2NT5X0X" group-title="ENTERTAINMENT", PORTO CANAL
+https://bit.ly/2ZB2GZU?ThorntonIPTV
+
+
+
+#EXTINF:-1 tvg-logo=https://i.imgur.com/07QG2DA.jpg?1 group-title="JORNALISMO" ,BLOOMBERG TV -  jornalismo inglês
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8?
+
+
+
+#EXTINF:-1 tvg-logo=https://i.imgur.com/07QG2DA.jpg?1 group-title="JORNALISMO" ,BLOOMBERG TV  - jornalismo| inglês
+plugin://plugin.video.youtube/play/?video_id=dp8PhLsUcFE
+
+
+
+#EXTINF:-1 tvg-logo=https://i.imgur.com/07QG2DA.jpg?1 group-title="JORNALISMO" ,BLOOMBERG TV - europa  - jornalismo| inglês
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/200px-CNN-International-Logo.svg.png" group-title="JORNALISMO",CNN International - jornalismo| inglês
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http%3A%2F%2Fvipeiptv.com%3A25461%2Ftaiane%2Ftaiane%2F758080&swf=None&auth=&simpledownloader=False
+
+
+
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="JORNALISMO",BBC World News - jornalismo| inglês
+https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=https://drjasonjohnson.files.wordpress.com/2016/05/08-al-jazeera-e1336473401965.gif group-title="JORNALISMO" ,Al Jazera  - jornalismo| inglês
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://live-hls-web-aje.getaj.net%2FAJE%2F01.m3u8&swf=None&auth=&simpledownloader=False
+
+
+
+#EXTINF:-1 tvg-logo="https://puntosinapsis.files.wordpress.com/2014/04/rt.png" group-title="JORNALISMO" ,RT news  - jornalismo| espanhol 
+https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://caixapreta.pt/logos/RT-UK.png" group-title="JORNALISMO" ,RT News UK  - jornalismo| inglês
+https://rt-uk.secure.footprint.net/1106_2500Kb.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kpRfowV.jpg?1" group-title="JORNALISMO" ,Sky News  - jornalismo|inglês
+plugin://plugin.video.live.streamspro/?url=http%3A%2F%2Fskydvn-sn-mobile-prod.skydvn.com%2Fskynews%2F1404%2Flatest.m3u8&mode=12
+ 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kpRfowV.jpg?1" group-title="JORNALISMO" ,Sky News - jornalismo| inglês
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=ttps://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/masterv3_1024x576.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.pumamedia.com.au/DW_English.jpg" group-title="JORNALISMO" ,DW TV - jornalismo| inglês
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo=https://www.newslinereport.com/online/nota_dw-latinoamrica-pasa-a-llamarse-dw-espaol.jpg group-title="JORNALISMO" ,DW TV - jornalismo| espanhol 
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo=http://oi2media.es/wp-content/uploads/2015/07/rai.png group-title="JORNALISMO" ,RAI News  - jornalismo| italiano 
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo=http://www.cxtv.com.br/img/Tvs/Logo/4850f3a4ceccc09a8ecbfb492473870f.png group-title="JORNALISMO" ,RAI NEWS 24  - jornalismo| italiano 
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo=http://www.mm-eu.tv/wordpress/wp-content/uploads/2016/05/euronews-logo_330x180.png group-title="JORNALISMO" , EuroNews  - jornalismo| inglês 
+https://euronews-en-p-cdn.hexaglobe.net/d40fd032e55f23a3976f560787441bd6/5e80f5f4/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo=http://www.cxtv.com.br/img/Tvs/Logo/755be752f3ae3f09aafe4153346fa8c4.png group-title="JORNALISMO" , FRANCE 24  - jornalismo| espanhol e inglês 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8b1849ff54815126db14498005c044da.jpg" group-title="JORNALISMO" , TVE - 24H - jornalismo| espanhol 
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1 group-title="JORNALISMO" tvg-logo="https://caixapreta.pt/logos/CGTN.png",CGTN ¹
+https://live.cgtn.com/1000/prog_index.m3u8
+
+
+
+#EXTINF:-1 group-title="JORNALISMO" tvg-logo="https://caixapreta.pt/logos/CGTN-Español.png",CGTN ESPAÑOL
+https://live.cgtn.com/1000e/prog_index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" group-title="JORNALISMO",CBS - jornalismo| inglês
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
+
+
+
+#EXTINF:-1  tvg-logo="http://logok.org/wp-content/uploads/2014/03/NBC-logo-2014.png" group-title="JORNALISMO",NBC  - jornalismo| inglês
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png group-title="JORNALISMO" ,Canal Macau - jornalismo| português e inglês
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/earthtv.png",Tempo no Mundo
+https://strm.yandex.ru/kal/worldlife/worldlife0.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="International", The weather channel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8?sd=10&rebase=on
